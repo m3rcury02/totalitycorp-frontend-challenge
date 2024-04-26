@@ -1,6 +1,6 @@
 # Totality Corp Assignment
 
-An e-commerce site application built as an assignment for Totality Corp company.
+An e-commerce site application built in React Js
 
 # Access the site in :
 https://m3rcury02.netlify.app/
