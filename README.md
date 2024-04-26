@@ -2,6 +2,8 @@
 
 An e-commerce site application built as an assignment for Totality Corp company.
 
+# Access the site in :
+https://m3rcury02.netlify.app/
 
 ## Tech Stack
 
